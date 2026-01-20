@@ -10,6 +10,7 @@ thumbnail: assets/images/Augustine_Lateran.jpg
 
 
 ## Oral Histories of Farming in the Middle Rio Grande 
+We are doing this and this is what we have to say about it. thank you.
 
 ### Dr. Marygold Walsh-Dilley, University of New Mexico 
 *Associate Professor, Department of Geography & Environmental Studies* 
@@ -25,6 +26,7 @@ thumbnail: assets/images/Augustine_Lateran.jpg
 - Sayrah does ZYX
 
 ### Jacqueline Kelley-Cogdell, University of New Mexico 
-* MS Graduate Student, Department of Geography & Enivornmental Studies* 
+*MS Graduate Student, Department of Geography & Enivornmental Studies* 
+- Jacqueline does x & q & i 
 ---
 
