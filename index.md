@@ -1,6 +1,6 @@
 ---
 title: Oral Histories of Farming along the Middle Rio Grande
-layout: nav-profile
+layout: base
 date: 2026-01-20
 ---
 
