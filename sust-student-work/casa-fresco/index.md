@@ -100,7 +100,7 @@ image-path="images/chrisatmarket.jpg"
 
 Chris’s family is the foundation of both his life and his work as a farmer. Much of his motivation comes from wanting to build a life where he can stay close to his wife and two sons while doing work he loves. Instead of continuing long hours in construction, he chose farming because it allowed him to be more present for his children. 
 
-{% include typography/aside.html class="left" text=Chris explained, "I take my kids to school; I pick them up. So, that was a big part of farming in the first place. I knew that I would be able to do that, having it here at our house and wanting to be with the kids." %}
+{% include typography/aside.html class="left" text="Chris explained, 'I take my kids to school; I pick them up. So, that was a big part of farming in the first place. I knew that I would be able to do that, having it here at our house and wanting to be with the kids.'" %}
 
 Some of Chris’s favorite memories involve planting seeds and picking carrots with his sons when they were younger. He talks about them helping in the garden, using little rakes, harvesting vegetables, and eating carrots and turnips fresh from the field. These moments are especially meaningful to him because they've allowed him to share his love of farming and outdoor life with his children.
 
