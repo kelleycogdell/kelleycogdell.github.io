@@ -1,1 +1,0 @@
-once the audio has been added to this folder you can delete this file
