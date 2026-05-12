@@ -27,7 +27,7 @@ Casey Holland went from a tough rural upbringing into a leadership role in susta
   width="45%"
   caption="*Meet Casey Holland!*"
   alt-text="Photo of Casey Holland"
-  image-path="/sust-student-work/caseyholland/images/Farmer.jpg"
+  image-path="images/Farmer.jpg"
 %}
 
 Casey Holland is formerly the farmer steward of Chispas Farm in Albuquerque’s South Valley. Born and raised in rural southern New Mexico.  Casey’s family had roots in agriculture; their mother’s side owned 50 acres of farmland in Belen, plus a two-acre family vegetable garden. Their grandfather also had a horse, and they remember childhood moments like playing in the hay storage or posing on a Clydesdale. 
@@ -44,7 +44,7 @@ At the University of New Mexico, Casey pursued international politics, wanting t
   width="60%"
   caption="*Occupy Wall Street Movement <br> Photo Taken By Gregory Peterson*"
   alt-text="Photo of Casey Holland"
-  image-path="/sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg"
+  image-path="images/UNM_Camp_Wallstreet.jpg"
 %}
 
 By their final year, the Occupy Wall Street movement was happening, and they threw themselves into the camp, connecting with others who spoke the same language of systemic change. It was at Occupy that they first heard Travis McKenzie and Rodrigo Rodriguez of Project Feed the Hood speak at teach-ins. “There was just this language they were speaking of liberation and creation… about the things we could actively do about it on a day-to-day basis that really spoke to me on a deeper level.” So then, in their last semester, they packed their schedule with classes that would change everything. They took macroeconomics, “...to learn the language of the enemy,” they joke, while also enrolling in a sustainability course with Jessica Rowland. As part of their Peace Studies minor, they needed a community internship to graduate. So they reached out to Project Feed the Hood and were accepted. 
@@ -68,7 +68,7 @@ Chispas Farm marked a new beginning for Casey. Casey invited Ian Coulborn from F
   width="45%"
   caption="*Meet Casey's Crew*"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
-  image-path="/sust-student-work/caseyholland/images/Group Photo.jpg"
+  image-path="images/Group Photo.jpg"
 %}
 
 So, although Chispas has been a huge part of Casey’s life and identity, they remark, “I look around and I, we did it. We fucking did it. It's so beautiful. Yeah. And I'm growing and changing in a way that the space can't hold anymore”. Casey’s transition has been full of support and reflection. And now they’re moving on to a leadership position for the Ag community within NM. They’re now taking the role of director at the Grow the Growers farmer training program, which really helps new farmers get up on their feet. Now directly being a resource for those beginning to farm. Although Casey is starting anew, they cannot stress how much they value the relationships they’ve made. “This is my community.” Even though moving on, Casey fully intends on supporting those taking over Chispas Farm, and is still planning to come back once a month and work with them. Casey believes in closing loops and opening spirals as a philosophy and states, “... I will still know these people in 20 years. They matter. And how I act now also deeply matters. I want to model that for them, that’s it’s not all screw off, bye, peace, I’m onto the next adventure. I want to live down the road…”
@@ -93,11 +93,11 @@ Arwen & Eric talk about their thoughts on working on this project
 %}
 
 {% assign images =
-"/sust-student-work/caseyholland/images/Magzine_Farm.jpg,
-/sust-student-work/caseyholland/images/Action_Photo.jpg,
-/sust-student-work/caseyholland/images/Bunny.jpg,
-/sust-student-work/caseyholland/images/Plants.jpg,
-/sust-student-work/caseyholland/images/Goat.jpg" | split: ','
+"images/Magzine_Farm.jpg,
+images/Action_Photo.jpg,
+images/Bunny.jpg,
+images/Plants.jpg,
+images/Goat.jpg" | split: ','
 %}
 
 
