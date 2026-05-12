@@ -47,7 +47,7 @@ Through the program, Chris learned farming skills and growing techniques.
  {% include images/figure.html
 class="right"
 width="60%"
-caption="Chris and his son at a market" [Source](https://www.facebook.com/casafrescofarm/photos)"
+caption="Chris and his son at a market [Source](https://www.facebook.com/casafrescofarm/photos)"
 image-path="images/casa-fresco-farm-boy.jpeg"
 %}
 
@@ -79,7 +79,7 @@ One of Chris's favorite things about his work is the act of witnessing seeds gro
   {% include images/figure.html
 class="left"
 width="70%"
-caption="A flying zucchini!" [Source](https://www.facebook.com/casafrescofarm/photos)"
+caption="A flying zucchini! [Source](https://www.facebook.com/casafrescofarm/photos)"
 image-path="images/zucchini-chris.jpeg"
 %}
 
