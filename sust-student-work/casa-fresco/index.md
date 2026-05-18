@@ -12,7 +12,7 @@ repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistori
 webpage-class: SUST-364, Spring 2026
 interview-class: GEOG-589, Fall 2025
 layout: scrollstory
-thumbnail: images/full-casa-fresco-farm-fam.jpeg
+thumbnail: images/chris-chavez.jpg
 summary: Oral Histories webpage of Casa Fresco Farm in NM
 header-image: images/casa-fresco-tomatoes.jpeg
 header-title: Chris Chavez Casa Fresco
