@@ -7,7 +7,8 @@ interview-class: GEOG 589, Fall 2025
 webpage-authors: 
     - tbd 
     - tbd
-webpage-class: SUST 364, Spring 2026
+webpage-class: SUST-364, Spring 2026
+interview-class: GEOG-589, Fall 2025
 interview-date: 2025-11-20
 webpage-date: 2026-05-12
 repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistoriesoffarming/2
