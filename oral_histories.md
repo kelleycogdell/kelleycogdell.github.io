@@ -4,7 +4,7 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 1
-summary: 
+summary: ""
 thumbnail: assets/images/Goat.jpg
 cards: 
   - title: Jane Doe 
