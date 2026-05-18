@@ -39,24 +39,3 @@ Other classes will also work with these oral histories to build out exhibits, bl
 published in public facing or academic research, but that is not the primary goal. The project prioritizes community goals and we have developed this project collaboratively 
 with our community partners.
 
----
-
-## Team Members 
-
-**Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
-*Associate Professor, Department of Geography & Environmental Studies* 
-
-**Casey Holland**, Chispas Farm <br> 
-*Farmer* 
-
-**Sayrah Namaste**, American Friends Service Committee - New Mexico  <br>
-*Co-Program Director*
-
-**Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
-*MS Graduate Student, Department of Geography & Enviornmental Studies* 
-
-**Jessica Rowland**, University of New Mexico  <br>
-*Senior Lecturer II & Associate Director, Sustainability Studies Program*
-
----
-
