@@ -1,5 +1,5 @@
 ---
-title: Seth Matlick Vida Verde Farm
+title: Seth Matlick
 farmer-name: Seth Matlick 
 farm: Vida Verde Farm 
 interviewer: Erin Elder 
