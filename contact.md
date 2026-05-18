@@ -18,6 +18,10 @@ caption=""
 image-path="assets/images/profile/marygold-walsh-dilley.jpg"
 %}
 
+<a href="https://google.com">
+  <img src="assets/images/profile/marygold-walsh-dilley.jpg" alt="Description of image">
+</a>
+
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
 *Associate Professor, Department of Geography & Environmental Studies* 
 marygoldwd@unm.edu
