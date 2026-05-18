@@ -13,7 +13,7 @@ date: 2026-01-20
 
 {% include images/figure.html
 class="center"
-width="100%"
+width="50%"
 caption="Dr. Marygold Walsh-Dilley"
 image-path="assets/images/chispas.jpg"
 %}
