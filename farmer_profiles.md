@@ -4,7 +4,7 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 2
-summary:
+summary: ""
 thumbnail: assets/images/casa-fresco-tomatoes.jpeg
 ---
 
