@@ -11,7 +11,7 @@ repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistori
 webpage-class: SUST-364, Spring 2026
 interview-class: GEOG-589, Fall 2025
 layout: scrollstory
-thumbnail: images/jackwestnew.jpg
+thumbnail: images/sweetpotatoguy.jpg
 summary: Born and raised in Albuquerque, New Mexico, Jack West learned to farm both in the Middle Rio Grande Valley, across the country, and overseas. His story delves into this gathered knowledge and mindset changes that shaped the farmer he is today.
 header-image: images/stockimagecorn.jpg
 header-title: 
