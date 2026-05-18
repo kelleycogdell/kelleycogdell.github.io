@@ -1,8 +1,17 @@
 ---
 title: Seth Matlick Vida Verde Farm
-author: Erin Elder, Sarah Miller, Minnie Metcalfe
+farmer-name: Seth Matlick 
+farm: Vida Verde Farm 
+interviewer: Erin Elder 
+webpage-authors: 
+    - Sarah Miller
+    - Minnie Metcalfe
+interview-date: 2025-12-23
+webpage-date: 2026-05-12 
+repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistoriesoffarming/4
+webpage-class: SUST-364, Spring 2026
+interview-class: GEOG-589, Fall 2025
 layout: scrollstory
-date: 2026-05-10
 thumbnail: images/seth-header.jpg
 summary: The story of how Seth started on his farming journey and how Vida Verde Farms came to be.
 header-image: images/seth-header.jpg
