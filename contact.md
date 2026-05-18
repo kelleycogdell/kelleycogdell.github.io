@@ -17,6 +17,7 @@ width="50%"
 caption="Chris and his two sons at the farm [Source](https://www.facebook.com/casafrescofarm/photos)"
 image-path="images/chrisandhisson.jpg"
 %}
+
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
 *Associate Professor, Department of Geography & Environmental Studies* 
 marygoldwd@unm.edu
@@ -27,6 +28,7 @@ width="50%"
 caption="Chris and his two sons at the farm [Source](https://www.facebook.com/casafrescofarm/photos)"
 image-path="images/chrisandhisson.jpg"
 %}
+
 **Casey Holland**, Chispas Farm <br> 
 *Farmer* 
 
@@ -48,7 +50,7 @@ image-path="images/chrisandhisson.jpg"
 %}
 
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
-*MS Graduate Student, Department of Geography & Enviornmental Studies* 
+*MS Graduate Student, Department of Geography & Environmental Studies* 
 jkelleycogdell@unm.edu
 
 {% include assets/images/chispas.jpg
