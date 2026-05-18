@@ -13,7 +13,7 @@ webpage-class: SUST-364, Spring 2026
 interview-class: GEOG-589, Fall 2025
 layout: scrollstory
 header-image: images/farm-of-song-header-purple-produce.png
-thumbnail: images/farm-of-song-market-booth.png
+thumbnail: images/ian-colburn.jpg
 summary: An oral hisotry of farming along the middle rio grande- Farm of Song
 header-title:
 header-position: 0px
