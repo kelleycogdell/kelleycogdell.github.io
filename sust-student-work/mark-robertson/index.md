@@ -14,7 +14,7 @@ webpage-date: 2026-05-12
 repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistoriesoffarming/2
 layout: scrollstory
 header-image: images/white-text-loose-leaf-farm.png
-thumbnail: images/loose-leaf-farm.png
+thumbnail: images/happy-mark.png
 summary: Loose Leaf Farm is a small farm in Albuquerque’s North Valley operated by Mark and Sarah Robertson. Their work focuses on biodiversity, soil health, and providing fresh produce to local restaurants, CSA members, and farmers markets.
 header-title:
 header-position: 0px
