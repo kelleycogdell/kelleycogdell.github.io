@@ -4,7 +4,7 @@ homepage: TRUE
 layout: base
 position: 1
 summary: Contact us with questions! 
-thumbnail: assets/images/question.jpg
+thumbnail: assets/images/Plants.jpg
 date: 2026-01-20
 ---
 
