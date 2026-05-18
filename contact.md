@@ -13,8 +13,8 @@ date: 2026-01-20
 
 {% include images/figure.html
 class="center"
-width="50%"
-caption="Dr. Marygold Walsh-Dilley"
+width="40%"
+caption=""
 image-path="assets/images/profile/marygold-walsh-dilley.jpg"
 %}
 
@@ -55,9 +55,9 @@ jkelleycogdell@unm.edu
 
 {% include images/figure.html
 class="center"
-width="50%"
-caption="Dr. Marygold Walsh-Dilley"
-image-path="assets/images/profile/jessica.jpg"
+width="40%"
+caption=""
+image-path="assets/images/profile/jessica.jpeg"
 %}
 
 **Jessica Rowland**, University of New Mexico  <br>
