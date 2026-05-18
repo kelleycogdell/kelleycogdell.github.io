@@ -4,7 +4,7 @@ layout: base
 css:
 homepage: TRUE
 position: 4
-summary: Project purpose and team members 
+summary:
 thumbnail: assets/images/chispas.jpg
 ---
 
