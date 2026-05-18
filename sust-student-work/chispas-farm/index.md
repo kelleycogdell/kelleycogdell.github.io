@@ -1,8 +1,14 @@
 ---
-title: Chispas Farm
-author: Narrated by Casey Holland (they/them)
+title: Casey Holland
+farmer-name: Casey Holland
+farm: Chispas Farm
+interviewer: Olivia Kelly
+webpage-authors: 
+    - Arwen Rose Rocha
+    - Eric Truong
+interview-date: 2026-01-09
+webpage-date: 2026-05-12
 layout: scrollstory
-date: 2025-07-21
 thumbnail: images/Plants.jpg
 summary: Casey Holland went from a tough rural upbringing into a leadership role in sustainable farming, now empowering new farmers through the Grow the Growers program while honoring their roots in activism and mentorship.
 header-image: images/Action_Photo.jpg
