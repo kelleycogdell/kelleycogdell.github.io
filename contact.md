@@ -11,14 +11,7 @@ date: 2026-01-20
 
 # Contact Us 
 
-{% include images/figure.html
-class="center"
-width="40%"
-caption=""
-image-path="assets/images/profile/marygold-walsh-dilley.jpg"
-%}
-
-<a href="https://google.com">
+<a href="mailto:marygoldwd@unm.edu">
   <img src="assets/images/profile/marygold-walsh-dilley.jpg" alt="Description of image">
 </a>
 
