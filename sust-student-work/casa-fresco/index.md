@@ -1,8 +1,14 @@
 ---
-title: Chris Chavez Makes Casa Fresco Farm Possible
-author: Zoe Romans
+title: Chris Chavez
+farmer-name: Chris Chavez
+farm: Casa Fresco
+interviewer: Anonymous
+webpage-authors: 
+    - Zoë Romans
+    - Ty Franco
+interview-date: 2025-11-20
+website-date: 2025-05-12
 layout: scrollstory
-date: 2026-05-06
 thumbnail: images/casa-fresco-tomatoes.jpeg
 summary: Oral Histories webpage of Casa Fresco Farm in NM
 header-image: images/casa-fresco-tomatoes.jpeg
