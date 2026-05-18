@@ -15,7 +15,7 @@ date: 2026-01-20
 class="center"
 width="50%"
 caption="Dr. Marygold Walsh-Dilley"
-image-path="assets/images/chispas.jpg"
+image-path="assets/images/profile/marygold-walsh-dilley.jpg"
 %}
 
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
@@ -54,10 +54,10 @@ image-path="assets/images/chispas.jpg"
 jkelleycogdell@unm.edu
 
 {% include images/figure.html
-class="left"
-width="60%"
-caption="Ian Colburn, Co-founder and Grower at Farm of Song"
-image-path="assets/images/chispas.jpg"
+class="center"
+width="50%"
+caption="Dr. Marygold Walsh-Dilley"
+image-path="assets/images/profile/jessica.jpg"
 %}
 
 **Jessica Rowland**, University of New Mexico  <br>
