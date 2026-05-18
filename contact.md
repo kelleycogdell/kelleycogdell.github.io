@@ -23,29 +23,28 @@ image-path="assets/images/profile/marygold-walsh-dilley.jpg"
 marygoldwd@unm.edu
 
 {% include images/figure.html
-class="left"
-width="60%"
-caption="Ian Colburn, Co-founder and Grower at Farm of Song"
-image-path="assets/images/chispas.jpg"
+class="center"
+width="40%"
+caption=""
+image-path="assets/images/profile/casey.jpg"
 %}
 
-**Casey Holland**, Chispas Farm <br> 
-*Farmer* 
+**Casey Holland**, Bernalillo County - Grow the Growers <br> 
 
 {% include images/figure.html
-class="left"
-width="60%"
-caption="Ian Colburn, Co-founder and Grower at Farm of Song"
-image-path="assets/images/chispas.jpg"
+class="center"
+width="40%"
+caption=""
+image-path="assets/images/profile/sayrah-namaste.jpg"
 %}
 
 **Sayrah Namaste**, American Friends Service Committee - New Mexico  <br>
 *Co-Program Director*
 
 {% include images/figure.html
-class="left"
-width="60%"
-caption="Ian Colburn, Co-founder and Grower at Farm of Song"
+class="center"
+width="40%"
+caption=""
 image-path="assets/images/chispas.jpg"
 %}
 
