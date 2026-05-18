@@ -8,6 +8,7 @@ webpage-authors:
     - Christina Gutierrez
     - Shea Dolan
 interview-date: 2025-11-20
+webpage-date: 2025-5-12
 layout: scrollstory
 thumbnail: images/loose leaf farm.jpeg
 summary: An oral history of Loose Leaf Farm
