@@ -1,8 +1,15 @@
 ---
-title: Farm of Song
-author: Gerald Klein and Rae Bretado
+title: Ian Colburn
+famer-name: Ian Colburn 
+farm: Farm of Song
+interviewer: Katie Slack
+webpage-authors: 
+    - Gerald Klein
+    - Rae Bretado
+interview-date: 2025-12-10
+webpage-date: 2026-05-12 
+repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistoriesoffarming/9
 layout: scrollstory
-date: 2026-5-12
 header-image: images/farm-of-song-header-purple-produce.png
 thumbnail: images/farm-of-song-market-booth.png
 summary: An oral hisotry of farming along the middle rio grande- Farm of Song
