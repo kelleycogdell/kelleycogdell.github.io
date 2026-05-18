@@ -1,7 +1,7 @@
 ---
 title: Chris Chavez
 farmer-name: Chris Chavez
-farm: Casa Fresco
+farm: Casa Fresco Farm
 interviewer: Anonymous
 webpage-authors: 
     - Zoë Romans
