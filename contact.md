@@ -12,12 +12,11 @@ date: 2026-01-20
 # Contact Us 
 
 {% include images/figure.html
-class="left"
-width="60%"
-caption="Ian Colburn, Co-founder and Grower at Farm of Song"
+class="center"
+width="100%"
+caption="Dr. Marygold Walsh-Dilley"
 image-path="assets/images/chispas.jpg"
 %}
-
 
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
 *Associate Professor, Department of Geography & Environmental Studies* 
