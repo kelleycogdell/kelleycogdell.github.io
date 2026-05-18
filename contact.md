@@ -16,48 +16,15 @@ date: 2026-01-20
 </a>
 
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
-*Associate Professor, Department of Geography & Environmental Studies* 
-marygoldwd@unm.edu
+*Associate Professor, Department of Geography & Environmental Studies*  <br>
+<a href="mailto:marygoldwd@unm.edu"> Email Marygold</a>
 
-{% include images/figure.html
-class="center"
-width="40%"
-caption=""
-image-path="assets/images/profile/casey.jpg"
-%}
-
-**Casey Holland**, Bernalillo County - Grow the Growers <br> 
-
-{% include images/figure.html
-class="center"
-width="40%"
-caption=""
-image-path="assets/images/profile/sayrah-namaste.jpg"
-%}
-
-**Sayrah Namaste**, American Friends Service Committee - New Mexico  <br>
-*Co-Program Director*
-
-{% include images/figure.html
-class="center"
-width="40%"
-caption=""
-image-path="assets/images/profile/jacqueline-kelley-cogdell.jpg"
-%}
-
+<a href="mailto:jkelleycogdell@unm.edu">
+  <img src="assets/images/profile/jacqueline-kelley-cogdell" alt="Description of image">
+</a>
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
-*MS Graduate Student, Department of Geography & Environmental Studies* 
-jkelleycogdell@unm.edu
-
-{% include images/figure.html
-class="center"
-width="40%"
-caption=""
-image-path="assets/images/profile/jessica.jpeg"
-%}
-
-**Jessica Rowland**, University of New Mexico  <br>
-*Senior Lecturer II & Associate Director, Sustainability Studies Program*
+*MS Graduate Student, Department of Geography & Environmental Studies* <br>
+<a href="mailto:jkelleycogdell@unm.edu"> Email Jacqueline</a>
 
 ---
 
