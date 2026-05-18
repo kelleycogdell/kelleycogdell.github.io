@@ -3,7 +3,7 @@ title: Contact Us
 homepage: TRUE 
 layout: base
 position: 1
-summary:
+summary: ""
 thumbnail: assets/images/Plants.jpg
 date: 2026-01-20
 ---
