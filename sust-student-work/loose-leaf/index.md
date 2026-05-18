@@ -1,8 +1,14 @@
 ---
-title: Sarah Robinson
-author: Fred Gibbs
+title: Sarah Robertson
+farmer-name: Sarah Robertson
+farm: Loose Leaf Farm
+interviewer: Jacqueline Kelley-Cogdell
+webpage-authors: 
+    - Luz Maria Houidobre
+    - Christina Gutierrez
+    - Shea Dolan
+interview-date: 2025-07-21
 layout: scrollstory
-date: 2025-07-21
 thumbnail: images/loose leaf farm.jpeg
 summary: An oral history of Loose Leaf Farm
 header-image: images/loose leaf1.jpeg
@@ -11,6 +17,7 @@ header-position: 0px
 toc-section: first
 geo: [37.88, -81.08]
 placename: New River Gorge National Park
+unm-digital-repository: 
 tags:
     - history
     - campus
