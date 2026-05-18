@@ -11,53 +11,54 @@ date: 2026-01-20
 
 # Contact Us 
 
-{% include assets/images/chispas.jpg
-class="right"
-width="50%"
-caption="Chris and his two sons at the farm [Source](https://www.facebook.com/casafrescofarm/photos)"
-image-path="images/chrisandhisson.jpg"
+{% include images/figure.html
+class="left"
+width="60%"
+caption="Ian Colburn, Co-founder and Grower at Farm of Song"
+image-path="assets/images/chispas.jpg"
 %}
+
 
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
 *Associate Professor, Department of Geography & Environmental Studies* 
 marygoldwd@unm.edu
 
-{% include assets/images/chispas.jpg
-class="right"
-width="50%"
-caption="Chris and his two sons at the farm [Source](https://www.facebook.com/casafrescofarm/photos)"
-image-path="images/chrisandhisson.jpg"
+{% include images/figure.html
+class="left"
+width="60%"
+caption="Ian Colburn, Co-founder and Grower at Farm of Song"
+image-path="assets/images/chispas.jpg"
 %}
 
 **Casey Holland**, Chispas Farm <br> 
 *Farmer* 
 
-{% include assets/images/chispas.jpg
-class="right"
-width="50%"
-caption="Chris and his two sons at the farm [Source](https://www.facebook.com/casafrescofarm/photos)"
-image-path="images/chrisandhisson.jpg"
+{% include images/figure.html
+class="left"
+width="60%"
+caption="Ian Colburn, Co-founder and Grower at Farm of Song"
+image-path="assets/images/chispas.jpg"
 %}
 
 **Sayrah Namaste**, American Friends Service Committee - New Mexico  <br>
 *Co-Program Director*
 
-{% include assets/images/chispas.jpg
-class="right"
-width="50%"
-caption="Chris and his two sons at the farm [Source](https://www.facebook.com/casafrescofarm/photos)"
-image-path="images/chrisandhisson.jpg"
+{% include images/figure.html
+class="left"
+width="60%"
+caption="Ian Colburn, Co-founder and Grower at Farm of Song"
+image-path="assets/images/chispas.jpg"
 %}
 
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
 *MS Graduate Student, Department of Geography & Environmental Studies* 
 jkelleycogdell@unm.edu
 
-{% include assets/images/chispas.jpg
-class="right"
-width="50%"
-caption="Chris and his two sons at the farm [Source](https://www.facebook.com/casafrescofarm/photos)"
-image-path="images/chrisandhisson.jpg"
+{% include images/figure.html
+class="left"
+width="60%"
+caption="Ian Colburn, Co-founder and Grower at Farm of Song"
+image-path="assets/images/chispas.jpg"
 %}
 
 **Jessica Rowland**, University of New Mexico  <br>
