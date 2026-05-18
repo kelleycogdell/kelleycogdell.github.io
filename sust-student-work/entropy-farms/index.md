@@ -14,7 +14,7 @@ interview-class: GEOG-589, Fall 2025
 layout: scrollstory
 date: 2025-07-21
 header-image: images/green-house.jpeg
-thumbnail: images/green-house.jpeg
+thumbnail: images/Fred + Diana.png
 summary: Learn how Fred Koster leveraged experimentation and community knowledge to successfully grow vegetables at Entropy Farms.
 header-title:
 header-position: 0px
