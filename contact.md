@@ -45,7 +45,7 @@ image-path="assets/images/profile/sayrah-namaste.jpg"
 class="center"
 width="40%"
 caption=""
-image-path="assets/images/chispas.jpg"
+image-path="assets/images/profile/jacqueline-kelley-cogdell.jpg"
 %}
 
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
