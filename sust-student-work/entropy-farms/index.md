@@ -1,5 +1,5 @@
 ---
-title: Fred Koster Farmer Profile
+title: Fred Koster
 farmer-name: Fred Koster
 farm: Entropy Farms
 interviewer: Glyn Wilson-Charles
@@ -8,6 +8,9 @@ webpage-authors:
     - Monic Robles
 interview-date: 2025-11-18
 webpage-date: 2026-05-12
+repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistoriesoffarming/10
+webpage-class: SUST-364, Spring 2026 
+interview-class: GEOG-589, Fall 2025
 layout: scrollstory
 date: 2025-07-21
 header-image: images/green-house.jpeg
