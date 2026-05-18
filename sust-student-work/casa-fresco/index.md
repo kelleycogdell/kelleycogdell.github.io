@@ -7,7 +7,10 @@ webpage-authors:
     - Zoë Romans
     - Ty Franco
 interview-date: 2025-11-20
-website-date: 2025-05-12
+webpage-date: 2025-05-12
+repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistoriesoffarming/11
+webpage-class: SUST-364, Spring 2026
+interview-class: GEOG-589, Fall 2025
 layout: scrollstory
 thumbnail: images/casa-fresco-tomatoes.jpeg
 summary: Oral Histories webpage of Casa Fresco Farm in NM
