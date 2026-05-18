@@ -13,7 +13,7 @@ repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistori
 webpage-class: SUST-364, Spring 2026 
 interview-class: GEOG-589, Fall 2025
 layout: scrollstory
-thumbnail: images/loose leaf farm.jpeg
+thumbnail: images/mark-sarah.png
 summary: An oral history of Loose Leaf Farm
 header-image: images/loose leaf1.jpeg
 header-title:
