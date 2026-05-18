@@ -9,6 +9,8 @@ webpage-authors:
 interview-date: 2025-12-10
 webpage-date: 2026-05-12 
 repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistoriesoffarming/9
+webpage-class: SUST-364, Spring 2026 
+interview-class: GEOG-589, Fall 2025
 layout: scrollstory
 header-image: images/farm-of-song-header-purple-produce.png
 thumbnail: images/farm-of-song-market-booth.png
