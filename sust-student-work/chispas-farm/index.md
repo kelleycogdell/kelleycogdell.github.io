@@ -12,7 +12,7 @@ repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistori
 webpage-class: SUST-364, Spring 2026 
 interview-class: GEOG-589, Fall 2025
 layout: scrollstory
-thumbnail: images/Plants.jpg
+thumbnail: images/Farmer.jpg
 summary: Casey Holland went from a tough rural upbringing into a leadership role in sustainable farming, now empowering new farmers through the Grow the Growers program while honoring their roots in activism and mentorship.
 header-image: images/Action_Photo.jpg
 header-title:
