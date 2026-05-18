@@ -20,8 +20,9 @@ date: 2026-01-20
 <a href="mailto:marygoldwd@unm.edu"> Email Marygold</a>
 
 <a href="mailto:jkelleycogdell@unm.edu">
-  <img src="assets/images/profile/jacqueline-kelley-cogdell.jpg" width="40%" alt="Description of image">
+  <img src="assets/images/profile/jacqueline-kelley-cogdell.jpg" width="50%" alt="Description of image">
 </a>
+
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
 *MS Graduate Student, Department of Geography & Environmental Studies* <br>
 <a href="mailto:jkelleycogdell@unm.edu"> Email Jacqueline</a>
