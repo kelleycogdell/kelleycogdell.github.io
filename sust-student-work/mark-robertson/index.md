@@ -1,6 +1,16 @@
 ---
-title: Mark Robertson - Loose Leaf Farm
-author: Fred Gibbs
+title: Mark Robertson
+farmer-name: Mark Robertson 
+farm: Loose Leaf Farm
+interviewer: Esther Hewitt
+interview-class: GEOG 589, Fall 2025
+webpage-authors: 
+    - tbd 
+    - tbd
+webpage-class: SUST 364, Spring 2026
+interview-date: 2025-11-20
+webpage-date: 2026-05-12
+repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistoriesoffarming/2
 layout: scrollstory
 date: 2025-07-21
 header-image: images/white-text-loose-leaf-farm.png
