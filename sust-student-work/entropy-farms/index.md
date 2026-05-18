@@ -1,6 +1,13 @@
 ---
 title: Fred Koster Farmer Profile
-author: Fred Gibbs
+farmer-name: Fred Koster
+farm: Entropy Farms
+interviewer: Glyn Wilson-Charles
+webpage-authors: 
+    - Lila Allen
+    - Monic Robles
+interview-date: 2025-11-18
+webpage-date: 2026-05-12
 layout: scrollstory
 date: 2025-07-21
 header-image: images/green-house.jpeg
