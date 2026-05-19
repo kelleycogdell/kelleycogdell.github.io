@@ -28,8 +28,8 @@ tags:
 Growing up in Mexico City 
 
 
-Sustainability (diversification of income, seed saving, )
-
+Sustainability (diversification of income, seed saving, 50:40)
+to me sustainability begins by doing what you really want to do in life (51)
 
 The arts (48)
 
