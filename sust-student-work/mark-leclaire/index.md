@@ -12,7 +12,7 @@ webpage-date: 2026-05-12
 repository-link: 
 layout: scrollstory
 header-image: images/atrisco-farm.jpg
-thumbnail: images/atrisco-farm.jpg
+thumbnail: images/mark_leclaire.webp
 summary: ""
 header-title:
 header-position: 0px
