@@ -31,7 +31,7 @@ Growing up in Mexico City
 Sustainability (diversification of income, seed saving, )
 
 
-The arts 
+The arts (48)
 
 
 Colonialism and Agricultural Knowledge (37:00)
@@ -39,10 +39,14 @@ Colonialism and Agricultural Knowledge (37:00)
 
 Biodynamics
 
-Farming vs agriculture (agriculture is a way of life)
+Farming vs agriculture (agriculture is a way of life 48:30)
 
-Challenges (no year-round farmers markets in ABQ; the market gets over-crowded in the winter; litte bit of water)
+Challenges (no year-round farmers markets in ABQ; the market gets over-crowded in the winter; litte bit of water; body and retur)
 
+Agricultura Network (45:00)
+
+
+Return to compost (48)
 
 
 
