@@ -13,7 +13,7 @@ interview-class: GEOG-589, Fall 2025
 layout: scrollstory
 thumbnail: images/fidel_gonzalez_5.jpg
 summary: Fidel González on the meaning of sustainability and the intertwinedness of the arts and agriculture.
-header-image: images/fidel_gonzalez.jpg
+header-image: images/fidel_gonzalez_2.webp
 header-title: 
 header-position: 0px
 toc-section: first
