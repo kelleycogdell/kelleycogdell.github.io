@@ -34,11 +34,12 @@ Sustainability
 The arts 
 
 
-Colonialism and Agricultural Knowledge
+Colonialism and Agricultural Knowledge (37:00)
 
 
 Biodynamics
 
+Farming vs agriculture 
 
 
 
