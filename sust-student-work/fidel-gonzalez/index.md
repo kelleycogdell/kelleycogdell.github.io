@@ -24,7 +24,9 @@ tags:
 ---
 
 # Background
-Fidel González is indigenous (Otomi) and grew up in Mexico City with his mom and his four brothers.  He moved to the United States when he was 19 years old with the intention of working to save money to travel to India. During his years in Mexico City, he became part of the Hare Krishna movement. It was in the temples in Mexico City that Fidel fell in love with music. Yet, he never made it to India. He moved from Mexico City to Texas for a short time and then lived in New York City for 30 years. In 2001, when his truck broke down in Albuquerque, he and his girlfriend at the time decided to stay. “One day…Pablo Lopez, he's an Apache ... He said, ‘I know about something, but I don't know if you will like it or not.’ I said, ‘What is it?’ And he said ‘Agriculture. Farming’”. Today, Fidel grows in the South Valley of Albuquerque. 
+Fidel González is indigenous (Otomi) and grew up in Mexico City with his mom and his four brothers.  He moved to the United States when he was 19 years old with the intention of working to save money to travel to India. During his years in Mexico City, he became part of the Hare Krishna movement. It was in the temples in Mexico City that Fidel fell in love with music. Yet, he never made it to India. He moved from Mexico City to Texas for a short time and then lived in New York City for 30 years. In 2001, when his truck broke down in Albuquerque, he and his girlfriend at the time decided to stay.
+>“One day…Pablo Lopez, he's an Apache ... He said, ‘I know about something, but I don't know if you will like it or not.’ I said, ‘What is it?’ And he said ‘Agriculture. Farming’”. 
+Today, Fidel grows in the South Valley of Albuquerque. 
 
 # The Arts, Religion, and Agriculture 
 Fidel first played the guitar when he was six or seven years old. Thanks to his mom and the support of his community, he bought his own guitar when he 14. His mom joyfully supported his dreams of being a musician. 
@@ -35,23 +37,19 @@ These things together make Fidel feel human.
 (audio)
 
 # Agricultura Network and Learning
-Fidel learned farming from Don Bustos through the Agricultura Network which Fidel named. When Fidel started it was a three-year training program, but in the second and third years, the students helped to train the first-year trainees. Fidel’s appreciation for Don Bustos is clear. 
+Fidel learned farming from Don Bustos through the Agricultura Network, a group that Fidel named. When Fidel started the program it was a three-years, but in the second and third years, the more experienced trainees helped teach the first-years. Fidel’s appreciation for Don Bustos is clear. 
 >“He helped me to remember something that we already know, which is agriculture. And in such a good way, because he's such a great person. Really good human being. And he was there every time we had a question” 
 
 # Agriculture vs. Farming 
 Fidel views farming and agriculture as distinctly different terms. He views farming as the practices and agriculture as a lifestyle. 
 >“Yes. I told you agriculture is a way of life. Farming is the verb. Farming is to do it. But agriculture itself is a way of life. Mostly like I told you, since I'm involved with ceremony and I like to learn about Buddhism, Taoism and Hinduism. I mean, you see the agriculture is involved in all of it. So farming is how you do it. So right there you got the mission and the vision. Because agriculture is the vision and farming is the mission is what you do to make it happen. Because you have to have your vision and your mission. When you see agriculture as a way of life, it's a nice vision. But then how do you do it? Farming. So, you've got vision and the mission and the concept of agriculture.” (audio)
 
- # Challenges
- no year-round farmer’s market in ABQ
- the market for produce gets over-crowded in the winter
- little water
- body can’t do it forever; 
- 59 taking advantage of farmers; “if you are uncomfortable you have to express it or you will become sick”; 
- local land and local farmer’s market;
- abusing the machines (18:30.2), 
- grasshoppers (20.2)
- heat (21)) 
+
+# Challenges 
+For Fidel, there are many challenges to growing in Albuquerque. Firstly, there is no year-round farmer’s market which makes financial feasibliilty difficult in the winter. The places to sell produce that do still exist in the winter such as restaurants and schools become very competitive. 
+
+There are also the challenges of growing in the desert. There is not a lot of water, so farmers in the Albuquerque area have to get creative. There's also pests such as grasshoppers (20.2) and the ever-increasing heat (21). Local land access and the lack of a year-round farmer's market in Albuquerque are the two challenges Fidel flags as most urgent.
+ 
 
 # Sustainability  
 Fidel discusses his broader definition of sustainability that informs his life and his farming practices. The number five is the idea that a community is sustainable if money has circulated in the community at least five times before it leaves. 
