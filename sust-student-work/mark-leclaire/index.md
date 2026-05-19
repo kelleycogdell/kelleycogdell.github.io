@@ -13,7 +13,7 @@ repository-link:
 layout: scrollstory
 header-image: images/atrisco-farm.jpg
 thumbnail: images/atrisco-farm.jpg
-summary: 
+summary: ""
 header-title:
 header-position: 0px
 toc-section: second
