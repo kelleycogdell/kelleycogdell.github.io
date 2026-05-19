@@ -13,7 +13,7 @@ interview-class: GEOG-589, Fall 2025
 layout: scrollstory
 thumbnail: images/fidel_gonzalez_5.jpg
 summary: Fidel González on the meaning of sustainability and the intertwinedness of the arts and agriculture.
-header-image: images/fidel_gonzalez.jpeg
+header-image: images/fidel_gonzalez.jpg
 header-title: 
 header-position: 0px
 toc-section: first
@@ -24,9 +24,9 @@ tags:
 ---
 
 # Background
-Fidel González is indigenous (Otomi) and grew up in Mexico City with his mom and his four brothers.  He moved to the United States when he was 19 years old with the intention of working to save money to travel to India. During his years in Mexico City, he became part of the Hare Krishna movement. It was in the temples in Mexico City that Fidel fell in love with music. Yet, he never made it to India. He moved from Mexico City to Texas for a short time and then lived in New York City for 30 years. In 2001, when his truck broke down in Albuquerque, he and his girlfriend at the time decided to stay.
+Fidel González is indigenous (Otomi) and grew up in Mexico City with his mom and his four brothers.  He moved to the United States when he was 19 years old with the intention of working for a year to save money to travel to India. During his years in Mexico City, he became part of the Hare Krishna movement. It was in the temples in Mexico City that Fidel fell in love with music. While he did eventually travel to India, he traveled much later in his life. He moved from Mexico City to Texas for a short time and then lived in New York City for 30 years. In 2001, when his truck broke down in Albuquerque, he and his girlfriend at the time decided to stay.
 >“One day…Pablo Lopez, he's an Apache ... He said, ‘I know about something, but I don't know if you will like it or not.’ I said, ‘What is it?’ And he said ‘Agriculture. Farming’”. 
-Today, Fidel grows in the South Valley of Albuquerque. 
+Today, Fidel farms in the South Valley of Albuquerque. 
 
 # The Arts, Religion, and Agriculture 
 Fidel first played the guitar when he was six or seven years old. Thanks to his mom and the support of his community, he bought his own guitar when he 14. His mom joyfully supported his dreams of being a musician. 
@@ -38,8 +38,8 @@ Fidel’s ties his love of music and his spirituality directly to agriculture.
 These things together make Fidel feel human. 
 (audio)
 
-# Agricultura Network and Learning
-Fidel learned farming from Don Bustos through the Agricultura Network, a group that Fidel named. When Fidel started the program it was a three-years, but in the second and third years, the more experienced trainees helped teach the first-years. Fidel’s appreciation for Don Bustos is clear. 
+# Agri-Cultura Network and Learning
+Fidel learned farming from Don Bustos through the Agri-Cultura Network, a group that Fidel named. When Fidel started the program it was a three-years, but in the second and third years, the more experienced trainees helped teach the first-years. Fidel’s appreciation for Don Bustos is clear. 
 >“He helped me to remember something that we already know, which is agriculture. And in such a good way, because he's such a great person. Really good human being. And he was there every time we had a question” 
 
 # Agriculture vs. Farming 
