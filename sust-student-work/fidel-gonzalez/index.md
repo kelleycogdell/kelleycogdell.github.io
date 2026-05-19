@@ -43,15 +43,15 @@ Fidel views farming and agriculture as distinctly different terms. He views farm
 >“Yes. I told you agriculture is a way of life. Farming is the verb. Farming is to do it. But agriculture itself is a way of life. Mostly like I told you, since I'm involved with ceremony and I like to learn about Buddhism, Taoism and Hinduism. I mean, you see the agriculture is involved in all of it. So farming is how you do it. So right there you got the mission and the vision. Because agriculture is the vision and farming is the mission is what you do to make it happen. Because you have to have your vision and your mission. When you see agriculture as a way of life, it's a nice vision. But then how do you do it? Farming. So, you've got vision and the mission and the concept of agriculture.” (audio)
 
  # Challenges
- •	no year-round farmer’s market in ABQ
- •	the market for produce gets over-crowded in the winter
- •	little water
- •	body can’t do it forever; 
- •	59 taking advantage of farmers; “if you are uncomfortable you have to express it or you will become sick”; 
- •	local land and local farmer’s market;
- •	abusing the machines (18:30.2), 
- •	grasshoppers (20.2)
- •	heat (21)) 
+ no year-round farmer’s market in ABQ
+ the market for produce gets over-crowded in the winter
+ little water
+ body can’t do it forever; 
+ 59 taking advantage of farmers; “if you are uncomfortable you have to express it or you will become sick”; 
+ local land and local farmer’s market;
+ abusing the machines (18:30.2), 
+ grasshoppers (20.2)
+ heat (21)) 
 
 # Sustainability  
 Fidel discusses his broader definition of sustainability that informs his life and his farming practices. The number five is the idea that a community is sustainable if money has circulated in the community at least five times before it leaves. 
@@ -66,7 +66,7 @@ In terms of agricultural practices, sustainability to Fidel means saving seeds. 
 (37; 12.2) 
 When Fidel started farming in the United States, he found himself overwhelmed by the technical terms like companion planting, cover cropping, etc. He discusses the ways in which colonization and European knowledge systems destroyed and stole Indigenous knowledges, including agricultural knowledges, and made those knowledges inaccessible and technical. Agriculture, for Fidel, is about reconnecting with those knowledges that have existed for a very long time. In the audio below, Fidel discusses the impacts of colonization on knowledge. 
 
-Returning to compost 
+# Returning to compost 
 Fidel slightly alters the religious saying, “From dust we came, and to dust we shall return” to “From compost we came and to compost we shall return”. The question is: what kind of compost will we be?
 
  (48; audio) 
