@@ -4,7 +4,7 @@ layout: base
 css:
 homepage: TRUE
 position: 4
-header-image: assets/images/green-house.jpeg
+header-image: assets/images/Plants.jpg
 summary: ""
 thumbnail: assets/images/chispas.jpg
 ---
