@@ -3,7 +3,6 @@ title: Mark LeClaire
 farmer-name: Mark LeClaire
 farm: Atrisco Truck Farm
 interviewer: June Keehn
-interview-class: GEOG 589, Fall 2025
 webpage-authors: 
     - Jacqueline Kelley-Cogdell
 webpage-class: 
