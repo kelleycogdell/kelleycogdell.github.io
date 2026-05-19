@@ -31,7 +31,9 @@ Today, Fidel grows in the South Valley of Albuquerque.
 # The Arts, Religion, and Agriculture 
 Fidel first played the guitar when he was six or seven years old. Thanks to his mom and the support of his community, he bought his own guitar when he 14. His mom joyfully supported his dreams of being a musician. 
 >“I think she was wondering if one of her kids would do something like that. Because she was so happy”  
+
 Fidel’s ties his love of music and his spirituality directly to agriculture.
+
 >“Agriculture is the mother of all the arts. Agriculture is the mother of all the religions. Agriculture is the mother of all the political movements. So, when I started learning about music, I didn't know that I'm going to go back to mom, which is agriculture.” 
 These things together make Fidel feel human. 
 (audio)
