@@ -14,6 +14,13 @@ thumbnail: assets/images/chispas.jpg
 This project is collecting stories and personal histories of farming within the Middle Rio Grande region of New Mexico. It emerged out of discussions between members of the UNM Food Systems Collaborative and community members involved in food systems work 
 during a Spring 2025 workshop. Casey Holland first articulated the idea, then we continued to work together to develop it.
 
+{% include images/figure.html
+class="center"
+width="48%"
+caption="UNM students visit Chispas Farm, Fall 2025"
+image-path="assets/images/students_chispas.jpg"
+%}
+
 The goals of the project are: <br>
 1) To contribute to the goals of our community partners to capture place-based 
 knowledge that can support resilience in our local food system, document the 
@@ -43,9 +50,12 @@ Other classes will also work with these oral histories to build out exhibits, bl
 
 # Team Members
 
-<a href="mailto:marygoldwd@unm.edu">
-  <img src="assets/images/profile/marygold-walsh-dilley.jpg" alt="Description of image">
-</a>
+{% include images/figure.html
+class="center"
+width="40%"
+caption=""
+image-path="assets/images/profile/marygold-walsh-dilley.jpg"
+%}
 
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
 *Associate Professor, Department of Geography & Environmental Studies*  <br>
