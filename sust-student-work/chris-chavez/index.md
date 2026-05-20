@@ -13,7 +13,7 @@ webpage-class: SUST-364, Spring 2026
 interview-class: GEOG-589, Fall 2025
 layout: scrollstory
 thumbnail: images/chris-chavez.jpg
-summary: Oral Histories webpage of Casa Fresco Farm in NM
+summary: Chris Chavez, owner of Casa Fresco Farm, on the challenges of farming in New Mexico, the importance of his family, and the building of new farm tools.
 header-image: images/casa-fresco-tomatoes.jpeg
 header-title: Chris Chavez Casa Fresco
 header-position: 0px
