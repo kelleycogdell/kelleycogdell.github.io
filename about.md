@@ -18,7 +18,7 @@ during a Spring 2025 workshop. Casey Holland first articulated the idea, then we
 class="center"
 width="48%"
 caption="UNM students visit Chispas Farm, Fall 2025"
-image-path="assets/images/students_chispas.jpg"
+image-path="assets/images/student-goats-chispas.jpg"
 %}
 
 The goals of the project are: <br>
