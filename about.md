@@ -10,9 +10,9 @@ thumbnail: assets/images/chispas.jpg
 ---
 
 
-## About the Project
+# About the Project
 
-# Overview
+## Overview
 This project is collecting stories and personal histories of farming within the Middle Rio Grande region of New Mexico. It emerged out of discussions between members of the UNM Food Systems Collaborative and community members involved in food systems work 
 during a Spring 2025 workshop. Casey Holland first articulated the idea, then we continued to work together to develop it.
 
@@ -23,7 +23,7 @@ caption="UNM students visit Chispas Farm, Fall 2025"
 image-path="assets/images/students-goats-chispas.jpg"
 %}
 
-# Goals
+## Goals
 The goals of the project are: <br>
 1) To contribute to the goals of our community partners to capture place-based 
 knowledge that can support resilience in our local food system, document the 
@@ -40,7 +40,7 @@ caption="UNM students visit Chispas Farm, Fall 2025"
 image-path="assets/images/students_chispas.jpg"
 %}
 
-# Timeline and Method
+## Timeline and Method
 In the first phase of the project, students in a Fall 2025 Research Methods class interviewed 11 farmers using oral history techniques that encourage narrators to share 
 their own personal stories, talk about what motivates them in their farming work, how farming has changed since they started and how they have adapted. The oral histories 
 also invite participants to share their own priorities, stories, and ideas in a participant-centered interview. We will continue to conduct oral history interviews through Fall 2026.
@@ -51,7 +51,7 @@ want to acknowledge that expertise and knowledge. The transcripts are archived i
 Other classes will also work with these oral histories to build out exhibits, blog entries, and other community-facing articulations. In the long run, these histories may be published in public facing or academic research, but that is not the primary goal. The project prioritizes community goals and we have developed this project collaboratively with our community partners, American Friends Service Committee - New Mexico and Chispas Farm. 
 
 
-# Team Members
+## Team Members
 
 {% include images/figure.html
 class="center"
