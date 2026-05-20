@@ -9,7 +9,7 @@ thumbnail: assets/images/casa-fresco-tomatoes.jpeg
 ---
 
 # Farmer Profiles
-
+---
 
 
 {% assign all_pages = site.pages %} {% assign cards = all_pages | where_exp: "p", "p.path contains 'sust-student-work/'" %}
