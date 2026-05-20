@@ -20,7 +20,6 @@ date: 2026-01-20
 *Associate Professor, Department of Geography & Environmental Studies*  <br>
 <a href="mailto:marygoldwd@unm.edu"> Email Marygold</a>
 
----
 
 <a href="mailto:jkelleycogdell@unm.edu">
   <img src="assets/images/profile/jacqueline-kelley-cogdell.jpg" width="50%" alt="Description of image">
