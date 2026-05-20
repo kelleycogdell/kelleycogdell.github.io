@@ -62,8 +62,8 @@ image-path="assets/images/profile/marygold-walsh-dilley.jpg"
 %}
 
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
-*Associate Professor, Department of Geography & Environmental Studies*  <br>
-marygoldwd@unm.edu 
+*Associate Professor, Department of Geography & Environmental Studies*  
+
 
 {% include images/figure.html
 class="center"
@@ -93,7 +93,7 @@ image-path="assets/images/profile/jacqueline-kelley-cogdell.jpg"
 
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
 *MS Graduate Student, Department of Geography & Environmental Studies* 
-jkelleycogdell@unm.edu
+
 
 {% include images/figure.html
 class="center"
