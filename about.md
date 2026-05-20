@@ -31,17 +31,14 @@ image-path="assets/images/students_chispas.jpg"
 %}
 
 
-In the first phase of the project, students in a Fall 2025 Research Methods class interviewed 10-15 farmers using oral history techniques that encourage narrators to share 
-their own personal stories, talk about what motivates them in their farming work, how farming has changed since they started and how they have adapted. The oral histories will 
-also invite participants to share their own priorities, stories, and ideas in a participant-centered interview. We will continue to conduct oral history interviews through at least 
-Summer 2026 and for as long as we have the resources, capacity, and farmers who want to participate. The first 20 farmers who participate will receive a $100 gift card in recognition 
-of their time and expertise.
+In the first phase of the project, students in a Fall 2025 Research Methods class interviewed 11 farmers using oral history techniques that encourage narrators to share 
+their own personal stories, talk about what motivates them in their farming work, how farming has changed since they started and how they have adapted. The oral histories 
+also invite participants to share their own priorities, stories, and ideas in a participant-centered interview. We will continue to conduct oral history interviews through Fall 2026.
 
 The oral histories are recorded and transcribed. They are not anonymous because we recognize that these stories and histories are connected to individual experiences and 
-want to acknowledge that expertise and knowledge. The transcripts are archived in the Digital Repository at UNM. We are also working on ways to make these oral histories available to the farming community and the broader community in exhibits,presentations, and other materials that are most relevant. 
+want to acknowledge that expertise and knowledge. The transcripts are archived in the Digital Repository at the University of New Mexico. We are also working on ways to make these oral histories available to the farming community and the broader community in exhibits, presentations, and other materials that are most relevant. 
 
-Other classes will also work with these oral histories to build out exhibits, blog entries, and other community-facing articulations. In the long run, these histories may be published in public facing or academic research, but that is not the primary goal. The project prioritizes community goals and we have developed this project collaboratively 
-with our community partners.
+Other classes will also work with these oral histories to build out exhibits, blog entries, and other community-facing articulations. In the long run, these histories may be published in public facing or academic research, but that is not the primary goal. The project prioritizes community goals and we have developed this project collaboratively with our community partners, American Friends Service Committee - New Mexico and Chispas Farm. 
 
 
 # Team Members
