@@ -10,7 +10,7 @@ thumbnail: assets/images/Bunny.jpg
 ---
 
 # Research Team
-
+---
 {% include images/figure.html
 class="center"
 width="40%"
