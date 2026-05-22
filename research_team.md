@@ -49,7 +49,7 @@ image-path="assets/images/profile/jacqueline-kelley-cogdell.jpg"
 %}
 
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
-*MS Graduate Student, Department of Geography & Environmental Studies* 
+*MS Graduate Student, Department of Geography & Environmental Studies* <br>
 Research Assistant
 
 {% include images/figure.html
@@ -61,7 +61,7 @@ image-path="assets/images/profile/jessica.jpeg"
 
 **Jessica Rowland**, University of New Mexico  <br>
 *Senior Lecturer II & Associate Director, Sustainability Studies Program* <br>
-
+---
 
 Students from GEOG 589, Fall 2025: 
 <ul>
@@ -70,11 +70,11 @@ Students from GEOG 589, Fall 2025:
   <li>Gus Guikema</li>
   <li>Esther Hewitt</li>
   <li>Juna Keehn</li>
-  <li>Jacqueline Kelley-Cogdell/li>
+  <li>Jacqueline Kelley-Cogdell</li>
   <li>Oliva Kelly</li>
   <li>Stephanie Mladinich</li>
   <li>Katie Slack</li>
   <li>Glyn Wilson-Charles</li>
-</ul>
+
 
 
