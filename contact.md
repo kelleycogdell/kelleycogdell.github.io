@@ -4,7 +4,7 @@ homepage: TRUE
 layout: base
 position: 1
 summary: ""
-header-image: assets/images/loose leaf pond.jpeg
+header-image: assets/images/green-house.jpeg
 thumbnail: assets/images/Plants.jpg
 date: 2026-01-20
 ---
@@ -22,7 +22,7 @@ If you are interested in getting involved in this project, please reach out to t
 *Associate Professor, Department of Geography & Environmental Studies*  <br>
 Team Lead <br>
 <a href="mailto:marygoldwd@unm.edu"> Email Marygold</a>
-
+---
 
 <a href="mailto:jkelleycogdell@unm.edu">
   <img src="assets/images/profile/jacqueline-kelley-cogdell.jpg" width="50%" alt="Description of image">
