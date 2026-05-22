@@ -75,7 +75,7 @@ Students from GEOG 589, Fall 2025:
   <li>Esther Hewitt</li>
   <li>Juna Keehn</li>
   <li>Jacqueline Kelley-Cogdell</li>
-  <li>Oliva Kelly</li>
+  <li>Olivia Kelly</li>
   <li>Stephanie Mladinich</li>
   <li>Katie Slack</li>
   <li>Glyn Wilson-Charles</li>
