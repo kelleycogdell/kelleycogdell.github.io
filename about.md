@@ -25,16 +25,10 @@ image-path="assets/images/students-goats-chispas.jpg"
 
 ## Goals
 
-1. To capture and archive publicly diverse place-based knowledges that can support resilience in our local food system, document the stories and histories of experienced farmers, and share this knowledge with others in our community.
+To capture and archive publicly diverse place-based knowledges that can support resilience in our local food system, document the stories and histories of experienced farmers, and share this knowledge with others in our community.
 
-2.  To provide opportunities for students to learn about and be connected with their local community and food system, and to learn and practice community-engaged research methods.
+To provide opportunities for students to learn about and be connected with their local community and food system, and to learn and practice community-engaged research methods.
 
-{% include images/figure.html
-class="center"
-width="48%"
-caption="UNM students visit Chispas Farm, Fall 2025"
-image-path="assets/images/students_chispas.jpg"
-%}
 
 ## Timeline
 **February 2025 -- UNM Food Systems Summit.** Casey Holland and other practitioners identify storytelling as a key way that farmers learn from each other and build resilience to the challenges of farming. Casey suggests that UNM researchers and students could take an active role in collecting, archiving, and making available these stories.
@@ -48,6 +42,14 @@ image-path="assets/images/students_chispas.jpg"
 **Spring 2026** – second round of archiving and profile generation in SUST 425
 
 We hope to continue with the collection of oral histories and processing of materials for public use for years to come!
+
+{% include images/figure.html
+class="center"
+width="48%"
+caption="UNM students visit Chispas Farm, Fall 2025"
+image-path="assets/images/students_chispas.jpg"
+%}
+
 
 ## Method and Citation
 
