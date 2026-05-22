@@ -11,14 +11,16 @@ date: 2026-01-20
 
 
 # Contact Us 
-
 ---
+If you are interested in getting involved in this project, please reach out to the Project Team Lead or the Project Research Assistant. We are always recruiting farmers for interviews and are open to new collaborators, partners, and creative directions for this project.
+
 <a href="mailto:marygoldwd@unm.edu">
   <img src="assets/images/profile/marygold-walsh-dilley.jpg" alt="Description of image">
 </a>
 
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
 *Associate Professor, Department of Geography & Environmental Studies*  <br>
+Team Lead <br>
 <a href="mailto:marygoldwd@unm.edu"> Email Marygold</a>
 
 
@@ -28,6 +30,7 @@ date: 2026-01-20
 
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
 *MS Graduate Student, Department of Geography & Environmental Studies* <br>
+Research Assistant <br>
 <a href="mailto:jkelleycogdell@unm.edu"> Email Jacqueline</a>
 
 ---
