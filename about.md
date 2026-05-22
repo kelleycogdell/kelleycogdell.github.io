@@ -60,20 +60,11 @@ After the interview, interviewers transcribe and loosely edit the transcript for
 Suggested citation: <br>
 *Holland, Casey and Olivia Kelly. 2026. “Casey Holland”. Oral Histories of Farming Along the Middle Rio Grande. UNM Digital Repository. https://digitalrepository.unm.edu/oralhistoriesoffarming/6/.*
 
-## Funding 
-
-This project is funded by the Transformation Network under NSF grant #2115169
 
 {% include images/figure.html
-class="left"
+class="center"
 width="48%"
-caption="UNM students visit Chispas Farm, Fall 2025"
-image-path="assets/images/students_chispas.jpg"
+caption=""
+image-path="assets/images/tn-logo.png"
 %}
 
-{% include images/figure.html
-class="right"
-width="48%"
-caption="UNM students visit Chispas Farm, Fall 2025"
-image-path="assets/images/students_chispas.jpg"
-%}
