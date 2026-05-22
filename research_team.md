@@ -54,7 +54,6 @@ image-path="assets/images/profile/jacqueline-kelley-cogdell.jpg"
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
 *MS Graduate Student, Department of Geography & Environmental Studies* <br>
 Research Assistant <br>
-
 ---
 
 {% include images/figure.html

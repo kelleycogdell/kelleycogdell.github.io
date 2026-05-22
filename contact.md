@@ -21,7 +21,7 @@ If you are interested in getting involved in this project, please reach out to t
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
 *Associate Professor, Department of Geography & Environmental Studies*  <br>
 Team Lead <br>
-<a href="mailto:marygoldwd@unm.edu"> Email Marygold</a>
+<a href="mailto:marygoldwd@unm.edu"> Email Marygold</a> <br>
 ---
 
 <a href="mailto:jkelleycogdell@unm.edu">
