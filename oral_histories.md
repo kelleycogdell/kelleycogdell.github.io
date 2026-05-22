@@ -9,7 +9,7 @@ thumbnail: assets/images/Goat.jpg
 
 ---
 
-## Oral History Audio and Transcripts
+# Oral History Audio and Transcripts
 ---
 {% assign card_pages = page.cards %} {% assign cards = all_pages | where_exp: "p", "p.path contains 'sust-student-work/'" %}
 
