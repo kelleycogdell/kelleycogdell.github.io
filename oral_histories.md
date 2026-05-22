@@ -5,7 +5,7 @@ date: 2025-09-30
 homepage: TRUE
 position: 1
 summary: ""
-header-image: assets/images/farm-of-song-market-booth.png
+header-image: assets/images/green-house.jpeg
 thumbnail: assets/images/Goat.jpg
 
 ---

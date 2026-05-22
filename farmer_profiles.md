@@ -5,7 +5,7 @@ date: 2025-09-30
 homepage: TRUE
 position: 2
 summary: ""
-header-image: assets/images/Bunny.jpg
+header-image: assets/images/green-house.jpeg
 thumbnail: assets/images/casa-fresco-tomatoes.jpeg
 ---
 
