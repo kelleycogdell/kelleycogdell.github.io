@@ -13,7 +13,7 @@ cards:
 
 ---
 
-## Oral History Audio and Transcript
+## Oral History Audio and Transcripts
 
 {% assign card_pages = page.cards %} {% assign cards = all_pages | where_exp: "p", "p.path contains 'sust-student-work/'" %}
 
