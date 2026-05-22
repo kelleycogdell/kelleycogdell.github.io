@@ -29,16 +29,6 @@ caption=""
 image-path="assets/images/profile/casey.jpg"
 %}
 
-**Casey Holland**, Bernalillo County - Grow the Growers <br> 
----
-
-{% include images/figure.html
-class="center"
-width="40%"
-caption=""
-image-path="assets/images/profile/sayrah-namaste.jpg"
-%}
-
 **Sayrah Namaste**, American Friends Service Committee - New Mexico  <br>
 *Co-Program Director* <br>
 ---
@@ -48,6 +38,16 @@ class="center"
 width="40%"
 caption=""
 image-path="assets/images/profile/jacqueline-kelley-cogdell.jpg"
+%}
+
+**Casey Holland**, Bernalillo County - Grow the Growers <br> 
+---
+
+{% include images/figure.html
+class="center"
+width="40%"
+caption=""
+image-path="assets/images/profile/sayrah-namaste.jpg"
 %}
 
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
