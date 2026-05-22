@@ -25,7 +25,9 @@ tags:
     - story
 ---
 
-"<farmer-name>"
+
+**<farmer-name>**
+
 
 # **Chispas Farm**
 
@@ -122,6 +124,6 @@ images/Goat.jpg" | split: ','
 
 Narrated by Casey Holland (they/them)
 
-Interviewed by Oliva Kelley, Fall 2025 GEOG-589 Qualitative Methods class
+Interviewed by Oliva Kelly, Fall 2025 GEOG-589 Qualitative Methods class
 
 Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Systems Practicum class
