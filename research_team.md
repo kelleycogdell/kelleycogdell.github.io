@@ -20,7 +20,7 @@ image-path="assets/images/profile/marygold-walsh-dilley.jpg"
 
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
 *Associate Professor, Department of Geography & Environmental Studies*  
-
+Team Lead
 
 {% include images/figure.html
 class="center"
@@ -50,7 +50,7 @@ image-path="assets/images/profile/jacqueline-kelley-cogdell.jpg"
 
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
 *MS Graduate Student, Department of Geography & Environmental Studies* 
-
+Research Assistant
 
 {% include images/figure.html
 class="center"
@@ -60,6 +60,21 @@ image-path="assets/images/profile/jessica.jpeg"
 %}
 
 **Jessica Rowland**, University of New Mexico  <br>
-*Senior Lecturer II & Associate Director, Sustainability Studies Program*
+*Senior Lecturer II & Associate Director, Sustainability Studies Program* <br>
+
+
+Students from GEOG 589, Fall 2025: 
+<ul>
+  <li>Brisa Carvalho</li>
+  <li>Erin Elder</li>
+  <li>Gus Guikema</li>
+  <li>Esther Hewitt</li>
+  <li>Juna Keehn</li>
+  <li>Jacqueline Kelley-Cogdell/li>
+  <li>Oliva Kelly</li>
+  <li>Stephanie Mladinich</li>
+  <li>Katie Slack</li>
+  <li>Glyn Wilson-Charles</li>
+</ul>
 
 
