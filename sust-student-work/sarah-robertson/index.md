@@ -26,6 +26,16 @@ tags:
     - history
     - campus
 ---
+## Credits 
+
+Narrated by: Sarah Robertson
+
+Interviewed by: Jacqueline Kelley-Cogdell, Fall 2025 GEOG-589 Qualitative Methods Class
+
+Interview Date: 11/20/2025
+
+Web Profile by: Luz Maria Houidobre, Christina Gutierrez, & Shea Dolan, Spring 2026 SUST-364 Local Food Systems Practicum Class
+
 
 # Sarah Robertson and Loose Leaf Farm - An Oral History
 
@@ -89,13 +99,5 @@ Even so, Sarah is often referred to or acknowledged as “the farmer's wife” i
 This sentiment is reflective of what often deters women from pursuing agriculture and highlights the further importance of her work in this field.
 
 As the number of U.S. farms continue to decline and ecological issues become more prevalent, many see farming as an unwise career path. However, farmers like Sarah Robertson and her husband, Mark, represent a new generation of farmers who, even amongst a world of uncertainty, work hard and remain steadfast in the craft as cultivators of the land.
-
-## Credits
-
-**Narrated by:**  Sarah Robertson of Loose Leaf Farms
-
-**Interviewed by:** Jacqueline Kelley-Cogdell - Fall 2025 GEOG-589 Qualitative Methods class
-
-**Web Profile by:** Luz Maria Houidobre, Christina Gutierrez, and Shea Dolan - Spring 2026 SUST-364 Local Food Systems Practicum class
 
 {% include scrollybox/auto-scroll.html speed=1.5 %}

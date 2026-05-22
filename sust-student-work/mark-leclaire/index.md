@@ -22,6 +22,16 @@ placename: Cuyahoga Valley National Park
 tags:
     
 ---
+## Credits 
+
+Narrated by: Mark LeClaire
+
+Interviewed by: Juna Keehn, Fall 2025 GEOG-589 Qualitative Methods Class
+
+Interview Date: 11/20/2025
+
+Web Profile by: Jacqueline Kelley-Cogdell
+
 
 # Introduction
 

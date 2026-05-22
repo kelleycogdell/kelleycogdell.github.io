@@ -27,8 +27,15 @@ tags:
 ---
 
 # A Farmer Profile - Narrated by Fred Koster of Entropy Farms
-**Interviewed by: Glyn Wilson-Charles, Fall 2025 GEOG-589 Qualitative Methods class**
-**Web Profile by: Lila Allen & Monic Robles, Spring 2026 SUST-364 Local Food Systems Practicum class**
+## Credits 
+
+Narrated by: Fred Koster
+
+Interviewed by: Glyn Wilson-Charles, Fall 2025 GEOG-589 Qualitative Methods Class
+
+Interview Date: 11/18/2025
+
+Web Profile by: Lila Allen & Monic Robles, Spring 2026 SUST-364 Local Food Systems Practicum Class
 
 ## Podcast
 

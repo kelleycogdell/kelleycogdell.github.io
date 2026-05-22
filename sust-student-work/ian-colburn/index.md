@@ -24,14 +24,17 @@ tags:
     - history
     - nature
 ---
-# **‘Farm of Song’** 
+# **Farm of Song** 
 
-## Narrated by: 
-Ian Colburn, Farm of Song
-## Interviewed by: 
-Katie Slack, Fall 2025 GEOG-589 Qualitative Methods class
-## Web Profile by: 
-Gerald Klein and Rae Bretado, Spring 2026 SUST-364 Local Food ## Systems Practicum class
+## Credits 
+
+Narrated by: Ian Colburn
+
+Interviewed by: Katie Slack, Fall 2025 GEOG-589 Qualitative Methods Class
+
+Interview Date: 12/10/2025
+
+Web Profile by: Gerald Klein & Rae Bretado, Spring 2026 SUST-364 Local Food Systems Practicum Class
 
 # **Introduction**
 {% include media/audio.html

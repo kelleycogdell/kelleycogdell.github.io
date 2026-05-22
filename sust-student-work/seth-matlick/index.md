@@ -24,6 +24,16 @@ tags:
     - history
     - campus
 ---
+## Credits 
+
+Narrated by: Seth Matlick
+
+Interviewed by: Erin Elder, Fall 2025 GEOG-589 Qualitative Methods Class
+
+Interview Date: 12/23/2025
+
+Web Profile by: Sarah Miller & Minnie Metcalfe, Spring 2026 SUST-364 Local Food Systems Practicum Class
+
 
 # How Seth Got His Start
 Seth Matlick grew up in a small apartment in New York City in a food-centered family. Food was a big part of his life early on, especially through his grandma and mom, who were always cooking and feeding people. Meals were really about community; neighbors would come over, people would drop in at all hours, and there was always room at the table. That idea of food as something emotional and shared has clearly stuck with him.

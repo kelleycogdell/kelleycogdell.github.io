@@ -25,14 +25,17 @@ tags:
     - farms
 ---
 
-# Casa Fresco Farm
+## Credits 
 
 Narrated by: Chris Chavez
 
 Interviewed by: Anonymous Graduate Student, Fall 2025 GEOG-589 Qualitative Methods Class
 
+Interview Date: 11/20/2025
+
 Web Profile by: Zoë Romans and Ty Franco, Spring 2026 SUST-364 Local Food Systems Practicum Class
 
+# Casa Fresco Farm
 
 ## Getting into Farming…
 {% include images/figure.html

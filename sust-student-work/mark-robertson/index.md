@@ -25,6 +25,16 @@ tags:
     - history
     - nature
 ---
+## Credits 
+
+Narrated by: Mark Robertson
+
+Interviewed by: Esther Hewitt, Fall 2025 GEOG-589 Qualitative Methods Class
+
+Interview Date: 11/20/2025
+
+Web Profile by: Spring 2026 SUST-364 Local Food Systems Practicum Class
+
 
 # Introduction
 

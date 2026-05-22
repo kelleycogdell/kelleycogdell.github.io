@@ -23,11 +23,18 @@ tags:
     - history
     - campus
 ---
+## Credits 
+
+Narrated by: Jack West
+
+Interviewed by: Stephanie Mladinich, Fall 2025 GEOG-589 Qualitative Methods Class
+
+Interview Date: 11/21/2025
+
+Web Profile by: Makenzi Nyquist & Teagan Stuyvesant, Spring 2026 SUST-364 Local Food Systems Practicum Class
+
 
 # The Story of Peas and Hominy Farm
-#### **Narrated by:** Jack West
-#### **Interviewed by:** Stephanie Mladinich, Fall 2025 GEOG-589 Qualitative Methods Class
-#### **Web Profile by:** Makenzi Nyquist & Teagan Stuyvesant, Spring 2026 SUST-364 Local Food Systems Practicum Class
 
 {% include media/audio.html
   src="audio/podcast.wav"

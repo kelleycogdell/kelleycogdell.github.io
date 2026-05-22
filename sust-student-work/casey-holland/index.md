@@ -25,8 +25,16 @@ tags:
     - story
 ---
 
+## Credits 
 
-'<farmer-name>'
+Narrated by: Casey Holland
+
+Interviewed by: Oliva Kelly, Fall 2025 GEOG-589 Qualitative Methods class
+
+Interview Date: 1/9/2026
+
+Web Profile by: ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Systems Practicum class
+
 
 
 # **Chispas Farm**
@@ -120,10 +128,3 @@ images/Goat.jpg" | split: ','
   images=images
 %}
 
-## Credits 
-
-Narrated by Casey Holland (they/them)
-
-Interviewed by Oliva Kelly, Fall 2025 GEOG-589 Qualitative Methods class
-
-Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Systems Practicum class
