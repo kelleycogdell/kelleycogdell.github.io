@@ -19,8 +19,8 @@ image-path="assets/images/profile/marygold-walsh-dilley.jpg"
 %}
 
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
-*Associate Professor, Department of Geography & Environmental Studies*  
-Team Lead
+*Associate Professor, Department of Geography & Environmental Studies*  <br>
+Team Lead <br>
 ---
 
 {% include images/figure.html
@@ -41,7 +41,7 @@ image-path="assets/images/profile/sayrah-namaste.jpg"
 %}
 
 **Sayrah Namaste**, American Friends Service Committee - New Mexico  <br>
-*Co-Program Director*
+*Co-Program Director* <br>
 ---
 
 {% include images/figure.html
@@ -53,7 +53,7 @@ image-path="assets/images/profile/jacqueline-kelley-cogdell.jpg"
 
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
 *MS Graduate Student, Department of Geography & Environmental Studies* <br>
-Research Assistant
+Research Assistant <br>
 ---
 
 {% include images/figure.html
