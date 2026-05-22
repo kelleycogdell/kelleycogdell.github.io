@@ -14,8 +14,7 @@ thumbnail: assets/images/chispas.jpg
 ---
 
 ## Overview
-This project is collecting stories and personal histories of farming within the Middle Rio Grande region of New Mexico. It emerged out of discussions between members of the UNM Food Systems Collaborative and community members involved in food systems work 
-during a Spring 2025 workshop. Casey Holland first articulated the idea, then we continued to work together to develop it.
+This project collects stories and personal histories of farming within the Middle Rio Grande region of New Mexico. It is elaborated in collaboration between the UNM Food Systems Collaborative, American Friends Service Committee-New Mexico, local farmers, and the convergent curriculum group of the Transformation Network. Casey Holland elaborated the idea for the project during the Food Systems Summit held in February 2025 and remains a close collaborator.
 
 {% include images/figure.html
 class="center"
@@ -25,14 +24,9 @@ image-path="assets/images/students-goats-chispas.jpg"
 %}
 
 ## Goals
-The goals of the project are: <br>
-1) To contribute to the goals of our community partners to capture place-based 
-knowledge that can support resilience in our local food system, document the 
-knowledge of experienced farmers, and share this knowledge with others.
+    1) To capture and archive publicly diverse place-based knowledges that can support resilience in our local food system, document the stories and histories of experienced farmers, and share this knowledge with others in our community.
 
-2) To provide opportunities for students to learn about and be connected within their 
-local community and foodshed, and to learn and practice community-engaged 
-research methods.
+    2) To provide opportunities for students to learn about and be connected with their local community and food system, and to learn and practice community-engaged research methods.
 
 {% include images/figure.html
 class="center"
@@ -41,14 +35,26 @@ caption="UNM students visit Chispas Farm, Fall 2025"
 image-path="assets/images/students_chispas.jpg"
 %}
 
-## Timeline and Method
-In the first phase of the project, students in a Fall 2025 Research Methods class interviewed 11 farmers using oral history techniques that encourage narrators to share 
-their own personal stories, talk about what motivates them in their farming work, how farming has changed since they started and how they have adapted. The oral histories 
-also invite participants to share their own priorities, stories, and ideas in a participant-centered interview. We will continue to conduct oral history interviews through Fall 2026.
+## Timeline
+February 2025 -- UNM Food Systems Summit. Casey Holland and other practitioners identify storytelling as a key way that farmers learn from each other and build resilience to
 
-The oral histories are recorded and transcribed. They are not anonymous because we recognize that these stories and histories are connected to individual experiences and 
-want to acknowledge that expertise and knowledge. The transcripts are archived in the Digital Repository at the University of New Mexico. We are also working on ways to make these oral histories available to the farming community and the broader community in exhibits, presentations, and other materials that are most relevant. 
+the challenges of farming. Casey suggests that UNM researchers and students could take an active role in collecting, archiving, and making available these stories.
 
-Other classes will also work with these oral histories to build out exhibits, blog entries, and other community-facing articulations. In the long run, these histories may be published in public facing or academic research, but that is not the primary goal. The project prioritizes community goals and we have developed this project collaboratively with our community partners, American Friends Service Committee - New Mexico and Chispas Farm. 
+February – August 2025 – Relationship building and project development. Associate Professor Marygold Walsh-Dilley, who teaches research methods in the Department of Geography & Environmental Studies , begins to develop a community-engaged project that could be undertaken by students in her classes. We build our network, bringing in Sayrah Namaste from AFSC-NM and Jessica Rowland and Tomek Falkowski, faculty at UNM.
 
+August – December 2025 – Study design and initial oral history collection. Students in the class GEOG 589 Qualitative Methods work with community partners to develop the project, ultimately collecting and transcribing 11 oral histories of farmers in the region. January – May 2026 – Project team establishes the Oral Histories of Farming archive in the Center for Southwest Research at the University of New Mexico Libraries. Students in SUST 425 and UHON 301 use the oral histories to generate Farmer Profiles highlighting local food heroes.
 
+Fall 2026 – second round of oral histories collection in GEOG 589: Qualitative Methods
+
+Spring 2026 – second round of archiving and profile generation in SUST 425
+
+We hope to continue with the collection of oral histories and processing of materials for public use for years to come!
+
+## Method and Citation
+
+We use oral history as method. Oral history prioritizes the stories and voice of the person being interviewed, which we call the narrator. Interviewers are prepared with a loose set of initial questions, but the interview is directed by the priorities, interests, and stories of the narrator. We want to hear and prioritize the voices of our local food heroes.
+
+After the interview, interviewers transcribe and loosely edit the transcript for readability. The transcript is returned to the narrator, who can request further edits if they desire. Approved transcripts are included in the archive, along with the original audio. These archives are public. Please recognize the narrator and interviewer as the co-authors of the oral history transcript.
+
+Suggested citation: <br>
+Holland, Casey and Olivia Kelly. 2026. “Casey Holland”. Oral Histories of Farming Along the Middle Rio Grande. UNM Digital Repository. https://digitalrepository.unm.edu/oralhistoriesoffarming/6/.
