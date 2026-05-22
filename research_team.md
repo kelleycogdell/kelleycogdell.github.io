@@ -22,7 +22,6 @@ image-path="assets/images/profile/marygold-walsh-dilley.jpg"
 *Associate Professor, Department of Geography & Environmental Studies*  <br>
 Team Lead <br>
 ---
-
 {% include images/figure.html
 class="center"
 width="40%"
