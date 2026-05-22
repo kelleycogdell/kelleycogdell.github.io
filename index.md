@@ -2,7 +2,7 @@
 title: Oral Histories of Farming along the Middle Rio Grande
 layout: base
 date: 2026-02-03
-header-image: assets/images/loose leaf pond 2.jpg
+header-image: assets/images/Farm_Covering.jpg
 ---
 
 
