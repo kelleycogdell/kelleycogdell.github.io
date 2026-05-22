@@ -11,7 +11,5 @@ thumbnail: assets/images/Goat.jpg
 
 # Oral History Audio and Transcripts
 ---
-{% assign card_pages = page.cards %} {% assign cards = all_pages | where_exp: "p", "p.path contains 'sust-student-work/'" %}
-
-{% include nav/card-toc.html rows = card_pages %}
+[Casey Holland](https://digitalrepository.unm.edu/oralhistoriesoffarming/6/)
 
