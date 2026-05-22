@@ -5,6 +5,7 @@ date: 2025-09-30
 homepage: TRUE
 position: 1
 summary: ""
+header-image: assets/images/loose leaf pond.jpeg
 thumbnail: assets/images/Goat.jpg
 
 ---

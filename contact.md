@@ -4,6 +4,7 @@ homepage: TRUE
 layout: base
 position: 1
 summary: ""
+header-image: assets/images/loose leaf pond.jpeg
 thumbnail: assets/images/Plants.jpg
 date: 2026-01-20
 ---
