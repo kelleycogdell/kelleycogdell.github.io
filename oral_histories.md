@@ -11,15 +11,24 @@ thumbnail: assets/images/Goat.jpg
 
 # Oral History Audio and Transcripts
 ---
-[Casey Holland](https://digitalrepository.unm.edu/oralhistoriesoffarming/6/)
-[Chris Chavez](https://digitalrepository.unm.edu/oralhistoriesoffarming/11/)
-[Fidel González](https://digitalrepository.unm.edu/oralhistoriesoffarming/12/)
-[Fred Koster](https://digitalrepository.unm.edu/oralhistoriesoffarming/10/)
-[Ian Colburn](https://digitalrepository.unm.edu/oralhistoriesoffarming/9/)
-[Jack West](https://digitalrepository.unm.edu/oralhistoriesoffarming/8/)
-[Mark LeClaire](https://digitalrepository.unm.edu/oralhistoriesoffarming/7/)
-[Mark Robertson](https://digitalrepository.unm.edu/oralhistoriesoffarming/2/)
-[Sarah Robertson](https://digitalrepository.unm.edu/oralhistoriesoffarming/5/)
+[Casey Holland](https://digitalrepository.unm.edu/oralhistoriesoffarming/6/) <br>
+
+[Chris Chavez](https://digitalrepository.unm.edu/oralhistoriesoffarming/11/) <br>
+
+[Fidel González](https://digitalrepository.unm.edu/oralhistoriesoffarming/12/) <br>
+
+[Fred Koster](https://digitalrepository.unm.edu/oralhistoriesoffarming/10/) <br>
+
+[Ian Colburn](https://digitalrepository.unm.edu/oralhistoriesoffarming/9/) <br>
+
+[Jack West](https://digitalrepository.unm.edu/oralhistoriesoffarming/8/) <br>
+
+[Mark LeClaire](https://digitalrepository.unm.edu/oralhistoriesoffarming/7/) <br>
+
+[Mark Robertson](https://digitalrepository.unm.edu/oralhistoriesoffarming/2/) <br>
+
+[Sarah Robertson](https://digitalrepository.unm.edu/oralhistoriesoffarming/5/) <br>
+
 [Seth Matlick](https://digitalrepository.unm.edu/oralhistoriesoffarming/4/)
 
 
