@@ -12,7 +12,8 @@ date: 2026-01-20
 
 # Contact Us 
 ---
-If you are interested in getting involved in this project, please reach out to the Project Team Lead or the Project Research Assistant. We are always recruiting farmers for interviews and are open to new collaborators, partners, and creative directions for this project.
+If you are interested in getting involved in this project, please reach out to the Project Team Lead or the Project Research Assistant. We are always recruiting farmers for interviews and are open to new collaborators, partners, and creative directions for this project. <br>
+---
 
 <a href="mailto:marygoldwd@unm.edu">
   <img src="assets/images/profile/marygold-walsh-dilley.jpg" alt="Description of image">
