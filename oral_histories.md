@@ -9,7 +9,7 @@ thumbnail: assets/images/Goat.jpg
 cards: 
   - title: Jane Doe 
   - thumbnail: assets/images/mic.jpg
-  - link: "https://gpsa.unm.edu/funding/grants-funding/grant-scholarship.html"
+  - link: https://gpsa.unm.edu/funding/grants-funding/grant-scholarship.html
 
 ---
 
