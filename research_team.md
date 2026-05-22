@@ -21,6 +21,7 @@ image-path="assets/images/profile/marygold-walsh-dilley.jpg"
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
 *Associate Professor, Department of Geography & Environmental Studies*  
 Team Lead
+---
 
 {% include images/figure.html
 class="center"
@@ -30,6 +31,7 @@ image-path="assets/images/profile/casey.jpg"
 %}
 
 **Casey Holland**, Bernalillo County - Grow the Growers <br> 
+---
 
 {% include images/figure.html
 class="center"
@@ -40,6 +42,7 @@ image-path="assets/images/profile/sayrah-namaste.jpg"
 
 **Sayrah Namaste**, American Friends Service Committee - New Mexico  <br>
 *Co-Program Director*
+---
 
 {% include images/figure.html
 class="center"
@@ -51,6 +54,7 @@ image-path="assets/images/profile/jacqueline-kelley-cogdell.jpg"
 **Jacqueline Kelley-Cogdell**, University of New Mexico  <br>
 *MS Graduate Student, Department of Geography & Environmental Studies* <br>
 Research Assistant
+---
 
 {% include images/figure.html
 class="center"
