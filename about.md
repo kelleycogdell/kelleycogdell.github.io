@@ -1,7 +1,6 @@
 ---
 title: About the Project
 layout: base
-css:
 homepage: TRUE
 position: 4
 header-image: assets/images/green-house.jpeg
